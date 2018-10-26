@@ -1,0 +1,7 @@
+C:\Users\Thijs\source\repos\GoudKoorts_Modl3\GoudKoorts_Modl3\bin\Debug\GoudKoorts_Modl3.exe.config
+C:\Users\Thijs\source\repos\GoudKoorts_Modl3\GoudKoorts_Modl3\bin\Debug\GoudKoorts_Modl3.exe
+C:\Users\Thijs\source\repos\GoudKoorts_Modl3\GoudKoorts_Modl3\bin\Debug\GoudKoorts_Modl3.pdb
+C:\Users\Thijs\source\repos\GoudKoorts_Modl3\GoudKoorts_Modl3\obj\Debug\GoudKoorts_Modl3.csprojAssemblyReference.cache
+C:\Users\Thijs\source\repos\GoudKoorts_Modl3\GoudKoorts_Modl3\obj\Debug\GoudKoorts_Modl3.csproj.CoreCompileInputs.cache
+C:\Users\Thijs\source\repos\GoudKoorts_Modl3\GoudKoorts_Modl3\obj\Debug\GoudKoorts_Modl3.exe
+C:\Users\Thijs\source\repos\GoudKoorts_Modl3\GoudKoorts_Modl3\obj\Debug\GoudKoorts_Modl3.pdb
